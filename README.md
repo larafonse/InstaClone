@@ -1,1 +1,1 @@
-# InstaClone
+# instaClone
